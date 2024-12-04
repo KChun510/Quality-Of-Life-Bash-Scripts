@@ -1,1 +1,2 @@
-sudo shutdown -s now
+pmset sleepnow
+
