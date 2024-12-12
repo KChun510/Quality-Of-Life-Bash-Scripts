@@ -1,2 +1,2 @@
 #!/bin/bash
-google-chrome
+google-chrome &
